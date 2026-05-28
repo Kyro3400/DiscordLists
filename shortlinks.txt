@@ -729,6 +729,7 @@ dis.gd/snowsgivingTW
 dis.gd/snowsgivingyt
 dis.gd/social-sdk
 dis.gd/socialfaq
+dis.gd/socialsdk-may2026
 dis.gd/Sodapoppin-Nitro
 dis.gd/sora-KOTH
 dis.gd/soundboard
