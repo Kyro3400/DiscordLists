@@ -25,6 +25,9 @@
 | discordstatus.com      | Status page                              |
 | discordpartygames.com  | Voice channel activity API host          |
 | discord-activities.com | Voice channel activity API host          |
+| discordvibeapps.com    | Internal tool                            |
+| vibeyard.tools         | Internal tool                            |
+
 
 ## Other
 
